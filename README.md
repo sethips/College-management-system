@@ -4,7 +4,7 @@ I made this project for my ITE-1002 course at VIT. This repository demonstrates 
 <h3>To execute</h3>
 <p>
   Clone the repository.<br>
-  Open up a terminal and cd into it.
-  Set up the database in mysql workbench using your user name and password.
-  Finally run python manage.py.
+  Open up a terminal and cd into it.<br>
+  Set up the database in mysql workbench using your user name and password.<br>
+  Finally run python manage.py.<br>
 </p>
