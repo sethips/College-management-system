@@ -1,5 +1,6 @@
 # CollegeManagementSystem
-I made this project for my ITE-1002 course at VIT. This repository demonstrates a college management system and handles various interactions between teachers and students.
+
+A college management system which handles various interactions between teachers and students.
 
 ## To execute
 
